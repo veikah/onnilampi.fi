@@ -1,0 +1,6 @@
+directory: /home/diodi/music
+library: /home/diodi/beets_data/musiclibrary.blb
+plugins: inline convert web
+import:
+        copy: yes
+        incremental: yes

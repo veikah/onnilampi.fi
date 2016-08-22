@@ -4,20 +4,27 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+    <h1>Welcome</h1>
+    <h2>About this website</h2>
+    This page is maintained by yours truly. The only function of this site is to provide people googling my name with up to date information. I don't really update my information in sites such as LinkedIn or Facebook that often, so this website is the place with the most current information about me. This site is created without scripts or cookies, all content here is purely static and served by the same server. :) I update this site (or the content of the linked files) whenever needed, currently about once a month. Feedback about this site can be sent to spam at onnilampi dot fi.
+    <br>
+    <br>
+    <br>
+    <br>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <h1 class="page-heading">Latest posts</h1>
+    <ul class="post-list">
+        {% for post in site.posts %}
+        <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
+            </h2>
+        </li>
+        {% endfor %}
+    </ul>
+
 
 </div>

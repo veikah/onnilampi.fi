@@ -1,0 +1,37 @@
+
+body {
+    max-width:1000px;
+    margin: auto;
+    background-color: #1B1B1B;
+    color: #DDDDDD;
+    font-family: "Helvetica";
+    line-height:1.6;
+    font-size:18px;
+    padding:100px;
+}
+
+h1,h2,h3{
+  color: #EEEEEE;
+  line-height:1.2;
+}
+
+a{
+    color: white;
+}
+
+a:visited{
+    color:white;
+}
+
+img{
+    float:left;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+img.scaled {
+  width: 100%;
+}
+
