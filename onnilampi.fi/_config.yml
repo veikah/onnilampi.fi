@@ -18,7 +18,7 @@ description: > # this means to ignore newlines until "baseurl:"
     A website maintained by yours truly. This site has no particular purpose in addition to acting as my resume.
 baseurl: "" # the subpath of your site, e.g. /blog
 email: contact@onnilampi.fi
-url: "https://onnilampi.fi" # the base hostname & protocol for your site
+url: "http://pyt2.kyla.fi" # the base hostname & protocol for your site
 twitter_username: omnez
 github_username:  onnilampi
 facebook_username: omnez

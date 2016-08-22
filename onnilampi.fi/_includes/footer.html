@@ -5,43 +5,50 @@
     <h2 class="footer-heading">{{ site.title }}</h2>
 
     <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
-            <ul class="contact-list">
-                <li>{{ site.title }}</li>
-                <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            </ul>
-        </div>
+        <hr>
+        <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fonnilampi.fi%2F">
+            <img src="{{site.url}}/img/html5.png"
+                 alt="HTML5 checks out!"
+                 height="40">
+        </a>
+        <!--<a href="https://gitlab.com/u/omnez">
+            <img src="img/gitlab.png"
+            alt="My gitlab, recently migrated from GitHub. Full of embarassing shit."
+            height="40">
+            </a>-->
+            <a href="https://github.com/onnilampi">
+                <img src="{{site.url}}/img/github.png"
+                     alt="My github."
+                     height="40">
+            </a>
+            <a href="https://heko.org">
+                <img src="{{site.url}}/img/heko.jpg"
+                     alt="Partiolippukunta Helsingin Kotkat"
+                     height="40">
+            </a>
+            <a href="http://as.ayy.fi">
+                <img src="{{site.url}}/img/as_notext.png"
+                     alt="AS-kilta"
+                     height="40">
+            </a>
+            <a href="http://cec.ayy.fi">
+                <img src="{{site.url}}/img/cec.png"
+                     alt="TLT-klubi"
+                     height="40">
+            </a>
 
-        <div class="footer-col footer-col-2">
-            <ul class="social-media-list">
-                {% if site.twitter_username %}
-                <li>
-                    <a href="https://twitter.com/{{ site.twitter_username }}">
-                        <i class="fa fa-twitter"></i> Twitter
-                    </a>
-                </li>
-                {% endif %}
-                {% if site.facebook_username %}
-                <li>
-                    <a href="https://www.facebook.com/{{ site.facebook_username }}">
-                        <i class="fa fa-facebook"></i> Facebook
-                    </a>
-                </li>
-                {% endif %}
-                {% if site.github_username %}
-                <li>
-                    <a href="https://github.com/{{ site.github_username }}">
-                        <i class="fa fa-github"></i> GitHub
-                    </a>
-                </li>
-                {% endif %}
+            <a href="https://walpuri.org">
+                <img src="{{site.url}}/img/naama1.jpg"
+                     alt="Walpurinaikaisen radiotoiminnan tuki Walpuri ry"
+                     height="40">
+            </a>
 
-            </ul>
-        </div>
+            <a href="rauta.html">
+                <img src="{{site.url}}/img/tux.png"
+                     alt="The awesome hardware this web page runs in! :)"
+                     height="40">
+            </a> 
 
-        <div class="footer-col footer-col-3">
-            <p>{{ site.description }}</p>
-        </div>
     </div>
 
 </div>

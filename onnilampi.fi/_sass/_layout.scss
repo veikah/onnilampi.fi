@@ -41,7 +41,7 @@ header {
     padding: 0px 15px;
     text-align: center;
     margin: 50px 0 0;
-    height: 50vh;
+    height: 5vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -106,6 +106,13 @@ aside {
     }
 }
 footer {
+    font-family: "Helvetica";
+    background: $header;
+    padding: 0px 15px;
     text-align: center;
-    padding: 40px;
+    margin: 50px 0 0;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
