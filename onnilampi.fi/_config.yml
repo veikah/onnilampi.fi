@@ -18,11 +18,15 @@ description: > # this means to ignore newlines until "baseurl:"
     A website maintained by yours truly. This site has no particular purpose in addition to acting as my resume.
 baseurl: "" # the subpath of your site, e.g. /blog
 email: contact@onnilampi.fi
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://onnilampi.fi" # the base hostname & protocol for your site
 twitter_username: omnez
 github_username:  onnilampi
 facebook_username: omnez
-
+sass:
+    sass_dir: _sass
+include: ['_pages']
+kramdown:
+    input: GFM
 
 # Build settings
 markdown: kramdown
