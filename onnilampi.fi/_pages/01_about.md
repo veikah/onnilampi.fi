@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I'm a 23 year old student from Helsinki, currently living in Otaniemi, Espoo. If you wish, you can contact me by sending email to contact at onnilampi dot fi. :)  My resume is available in [finnish][cv_fin.pdf] and in [english][cv_en.pdf]. Pictures of me wearing stupid outfits can be found [here][https://onnilampi.fi/pictures]. In this website I also collect [links][https://onnilampi.fi/cool] to cool shit I've stumbled upon or created on the internet. From time to time I [choose][https://onnilampi.fi/list] to boycott or actively campaign against something.
+![Me](http://placehold.it/300x300)
 
 ## My studies
 My educational history is quite complicated, I have not gone through the traditional High School system. Instead, I got myself a degree as a telecommunications technician while simultaneously completing the high school diploma. In January of 2013 I started studying in Metropolia Polytechnic. I quickly switched to Aalto University, where my studies began in September of 2013. Major in Communication technology, minor in various related subjects.
@@ -18,5 +18,4 @@ I'm fluent in Finnish and English, although some minor grammatical errors may po
 ## My hobbies and interests
 My hobbies include board- and computer games, Magic the Gathering, electronics, and activity in various organizations. I also enjoy reading books, especially Science-Fiction. I also enjoy drinking good beer and eating well prepared meat. I've been a Boy Scout since 2001, currently acting as a troop leader. I'm also on the board of CEC and Walpuri.
 
-[cv_fin]: https://onnilampi.fi
 
