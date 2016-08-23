@@ -4,14 +4,13 @@ title: Contact
 permalink: /contact/
 ---
 
-#### List of things I choose to boycott, mostly crappy pizza joints.
-[Leppävaaran pizzapalvelu][lpp] - Motherfuckers raised prices on their shitty pizzas from 6€ to 7€. The quality-to-price ratio is all fucked up now. \\
-[Onni pizzeria][onni-pizzeria] - Shitty pizza place with inaccurate delivery information. Not worthy of that name.\\
-[Yle Kioski][yle-kioski] - Tabloid journalism funded with tax payer money. Is known to intentionally misinterpret things in favor of a scoop!\\
-[Serla][serla] - Shitty sandpaper disguised as toiletpaper. Be careful with this one, it may try to [disguise][serla-disguise] itself.\\
+I can be contacted in a number of ways. Here are some of them.\\
+[My facebook](https://facebook.com/omnez)\\
+[My twitter](https://twitter.com/omnez)\\
+[My github](https://github.com/onnilampi)
 
-[lpp]: http://www.leppavaaranpizzapalvelu.fi/
-[onni-pizzeria]: https://pizza-online.fi/ravintolat/helsinki/onnipizzeria
-[yle-kioski]: http://kioski.yle.fi/
-[serla]: http://serla.fi/
-[serla-disguise]: http://www.aalto.fi/fi/current/news/2016-08-04-002/ 
+### Other useful things
+My bank account: **FI57 1389 3500 1031 74**\\
+My phone number: **+385 40 702 3841**\\
+Nickname in [Telegram](http://telegram.org): **omnez**
+

@@ -2,7 +2,8 @@
 layout: post
 title:  "My rant about Beer Pong"
 date:   2016-08-02 16:47:25 +0300
-permalink: /pinkiponkipeli/
+permalink: /blog/pinkiponkipeli/
+language: [fin]
 categories: jekyll update
 ---
 

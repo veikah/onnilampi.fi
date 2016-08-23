@@ -9,6 +9,15 @@ Welcome to my blog. I don't have any particular purpose for this, just thought i
 <br>
 <br>
 {% for post in site.posts %}
+{% if post.language contains 'en' %}
+<img src="{{site.url}}/img/en.png"
+     width=15px>
 <time>{{ post.date | date: "%b %-d, %Y" }}</time> - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+{% endif  %}
+{% if post.language contains 'fin' %}
+<img src="{{site.url}}/img/fin.png"
+     width=15px>
+<time>{{ post.date | date: "%b %-d, %Y" }}</time> - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+{% endif  %}
 {% endfor %}
 
