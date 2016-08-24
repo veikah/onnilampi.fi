@@ -7,7 +7,9 @@ language: [fin]
 categories: jekyll update
 ---
 
-Ensin yksi asia alta pois: beer pongin pelaaminen ei välttämättä ole typerää, eikä se tee kenestäkään henkilöstä sellaista. Beer pongista puuttuu pelinä kaikki, mikä tekee peleistä mielekkäitä ja uudelleen pelaamisen arvoisia. Hyvässä pelissä tulee olla pelin luonteesta riippuen sopivassa suhteessa satunnaisuutta, taitoa, valintoja, yllätyksellisyyttä, sekä selkeä lopputulos ja päämäärä. Beer pongissa kaikki edellä mainitut osa-alueet ovat täysin näennäisiä tai epäolennaisia.
+Ensin yksi asia alta pois: beer pongin pelaaminen ei välttämättä ole typerää, e tee ikä senestäkään henkilöstä sellaista.
+
+. Beer pongista puuttuu pelinä kaikki, mikä tekee peleistä mielekkäitä ja uudelleen pelaamisen arvoisia. Hyvässä pelissä tulee olla pelin luonteesta riippuen sopivassa suhteessa satunnaisuutta, taitoa, valintoja, yllätyksellisyyttä, sekä selkeä lopputulos ja päämäärä. Beer pongissa kaikki edellä mainitut osa-alueet ovat täysin näennäisiä tai epäolennaisia.
 
 Satunnaiselementti ja yllätyksellisyys syntyy peliin heitoista tulevasta varianssista; pallo joko menee sisään tai ei mene. Harvinaisessa tapauksessa pallo saattaa osua myös vastapelaajan omaan juomamukiin, joka johtaa vastajoukkueen välittömään häviöön. Tämä on pelin ainut markittävä satunnais- ja yllätyselementti. Ei oikeasti ole mitään väliä sillä, osuuko pallo kuppiin vai ei koska tästä ei rankaista tai palkita kumpaakaan joukkuetta mitenkään.
 
