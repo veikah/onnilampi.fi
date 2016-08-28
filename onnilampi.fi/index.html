@@ -4,9 +4,22 @@ layout: default
 
 <h2>Welcome!</h2>
 
-<img src="http://placehold.it/300x300"
-     alt="That's me!"
-     style="float:none">
-<br>
-<br>
-I'm a 23 year old student from Helsinki, currently living in Otaniemi, Espoo. I maintain this site because I wanted to provide people googling my name with up to date information. I don't really update my information in sites such as LinkedIn or Facebook that often, so this website is the place with the most current information about me. I update this site (or the content of the linked files) whenever needed, currently about once a month. Feedback about this site can be submitted in the form of a pull request on github.
+I'm a 23 year old student from Helsinki, currently living in Otaniemi, Espoo. I maintain this site because I wanted to provide people googling my name with up to date information. I update this site (or the content of the linked files) whenever needed, currently about once a month. I'm happy to receive feedback or improvements about this site in the form of a pull request on github.
+
+<h3>Latest posts in my blog</h3>
+{% assign count = 0 %}
+{% for post in site.posts limit:5 %}
+{% if count < 10 %}
+{% if post.language contains 'en' %}
+<img src="{{site.url}}/img/en.png"
+     width=15px>
+<time>{{ post.date | date: "%b %-d, %Y" }}</time> - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+{% endif  %}
+{% if post.language contains 'fin' %}
+<img src="{{site.url}}/img/fin.png"
+     width=15px>
+<time>{{ post.date | date: "%b %-d, %Y" }}</time> - <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br>
+{% endif  %}
+{% endif %}
+{% endfor %}
+

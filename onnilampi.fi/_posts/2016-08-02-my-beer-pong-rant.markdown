@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "My rant about Beer Pong"
+headline: "Beer Pong on typerä peli"
 date:   2016-08-02 16:47:25 +0300
 permalink: /blog/pinkiponkipeli/
-language: [fin]
+language: fin
+author: "Onni Lampi"
 categories: jekyll update
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "My new site"
+headline: "Jekyll is awesome"
 date:   2016-08-22 16:47:25 +0300
 permalink: /blog/new-site/
 language: en
