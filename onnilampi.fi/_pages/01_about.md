@@ -18,7 +18,7 @@ My educational history is quite complicated, I have not gone through the traditi
 
 ## Positions of trust
 
-* 2016: On the board of CEC, Walpuri (as an executive creative director) and my local scout troop (chairman). Representative in the AYY student council, as the chairman of Voltti(organization composed of students from ELEC). 
+* 2016: On the board of CEC, Walpuri (as editor in chief) and my local scout troop (chairman). Representative in the AYY student council, as the chairman of Voltti(organization composed of students from ELEC). 
 * 2015: On the board of CEC (chairman) and my local scout troop (chairman). In charge of student tutors of my guild.
 * 2014: On the board of my local scout troop (vice chairman). In charge of food supplies in a 2000 person scouting camp.
 * 2010, 2012, 2013: On the board of my local scout troop. 
