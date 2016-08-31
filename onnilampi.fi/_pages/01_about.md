@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: skills
 title: About
 permalink: /about/
 ---
 
-![Me]({{site.url}}/img/me2.jpg)
+[comment]: <>![Me]({{site.url}}/img/me2.jpg)
 
 ## My studies
 My educational history is quite complicated, I have not gone through the traditional High School system. Instead, I got myself a degree as a telecommunications technician while simultaneously completing the high school diploma. In January of 2013 I started studying in Metropolia Polytechnic. I quickly switched to Aalto University, where my studies began in September of 2013. Major in Communication technology, minor in various related subjects.

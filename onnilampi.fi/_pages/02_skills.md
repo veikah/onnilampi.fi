@@ -22,5 +22,5 @@ I've done lots of stuff in various projects and from those I've learned the foll
 
 * Project management: Managing goals and people is easy for me.
 * Teaching: I'm very good at getting my point accross to other people and teaching about subjects I have knowledge about.
-* Electronics: I've built electronics ranging from a blinking LED to a stereo amlifier.
+* Electronics: I've built electronics ranging from a blinking LED to a stereo amplifier.
 
