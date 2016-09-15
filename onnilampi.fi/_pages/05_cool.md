@@ -6,6 +6,10 @@ permalink: /links/
 
 I find this to be a much better alternative to sharing things on Facebook or other social media. These links are not in any particular order, other than the time of addition (newest on top) and being filed under the month of addition. If something über-cool is missing, then it is. 
 
+### September 2016
+
+* [A graph](http://xkcd.com/1732/) that provides an awesome perspective to global warming.
+
 ### August 2016 
 
 * [Cool video](https://www.youtube.com/watch?v=6SqYMU81l8Y) regarding the usefulness of old Apple computers. Be kind to check other videos from this guy too!

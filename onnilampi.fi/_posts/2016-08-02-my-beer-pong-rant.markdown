@@ -8,6 +8,8 @@ language: fin
 author: "Onni Lampi"
 categories: jekyll update
 ---
+*"Beer pong on typerintä jenkkiläistä alkoholipelleilyä sitten noiden infernaalisten punaisten virtsanäytekuppien, ja yhtä paljon urheilulaji kuin kynäri ja runkkaaminen."*
+-Mylvaristoteles
 
 Ensin yksi asia alta pois: beer pongin pelaaminen ei välttämättä ole typerää, eikä se tee kenestäkään henkilöstä sellaista.
 
