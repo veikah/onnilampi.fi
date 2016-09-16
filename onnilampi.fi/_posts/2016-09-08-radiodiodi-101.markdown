@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Student radio in Otaniemi"
+headline: "Näin syntyy Radiodiodi"
+date:   2016-09-08 00:00:00 +0300
+permalink: /blog/radiodiodi-101/
+language: fin
+author: "Onni Lampi, päätoimittaja 2017"
+categories: jekyll update
+---
+*Kirjoittelin tämän artikkelin viime huhtikuussa, tarkoituksenani julkaista se killan lehdessä. Unohdin kuitenkin lähettää sen päätoimittajalle, joten lienee sopivaa julkaista se nyt täällä.*
+
+
+Kuten jokainen itseään kunnioittava Wapun viettäjä tietää, on Radiodiodi olennainen osa Otaniemieläistä teekkariwappua. Asiaan vihkiytymättömille saattaa näyttää siltä, että radio vain ilmestyy tyhjästä joka kevät. Näin ei kuitenkaan ole, vaan radio vaatii satoja miestyötunteja ennen kuin yksikään elektroni värähtää lähetysantennilta ilmoille. Kaupallisen radiokanavan pyörittäminen edellyttää kolmea tärkeää osa-aluetta: mainostuloja, lähetettävää ohjelmaa, ja toimivan teknisen toteutuksen. Itse päädyin mukaan ydintiimiin keväällä 2015 erehdyttyäni istahtamaan ELEC-sitsien jatkoilla silloisen päätoimittajan viereen. Noin sadan huonon ja humalaisen vitsin jälkeen olin jo myyty. 
+
+
+Koko radion toiminnan perustana on taloudellinen vakaus. Rahaa radiolle saadaan käytännössä mainostuloilla sekä esimerkiksi AYYn ja TTERn tuilla. Valtaosa rahasta tulee kuitenkin mainoksista, joiden äänittäminen on joka vuotinen prosessi. Mainokset perinteisesti nauhoitetaan täysin itse, ja yleensä ehkä muistetaan jopa hyväksyttää mainostajalla. Ainoastaan kerran on mainoksen soittaminen jouduttu lopettamaan kesken lähetyskauden. Tässä kyseisessä tapauksessa mainostettiin nimeltä mainitsematonta firmaa, joka sattuu operoimaan Pasilassa sijaitsevaa suurta linkkimastoa. Mainoksessa tornia kuvailtiin ikävän epäselvästi, ja joku saattoi mainoksen johdosta sekoittaa sen 140 metriä korkeaan penikseen!
+
+
+Radion kuuluvin osuus on luonnollisesti itse ohjelma. Ohjelmasta vastaa viime kädessä päätoimittaja. Ohjelmaa on perinteisesti tehty aina sillä periaatteella, että ohjelman tekijöiden viihtyessä kuuntelijatkin viihtyvät! Vuodesta toiseen säilyneinä suosikkiohjelmina mm. "Kadonnutta rytmiä etsimässä", "Gentoon asennus ja peruskäyttö" sekä "Aamushou". Ohjelmaa on tehty myös vähemmän arkisista aiheista; on mm. selostettu NHL-ottelua livenä, luennoitu sammakoiden lisääntymisestä, sekä jostain syystä päästämällä 3 ankkaa radioon mölisemään. Ohjelmaa tehdään perinteisesti noin 10-13 päivää, kellon ympäri. Toistaiseksi kaikki halukkaat ovat päässeet tekemään ohjelmaa ainakin kerran radion aikana ja hyvää duunia tehneet kutsutaan aina uudestaan mikin taakse.
+
+
+Tekniikka radiolla on tehty perinteisen teekkarimaisesti aina viime tingassa _jostain_ lootatuilla tarvikkeilla. Tekniikkaketju on suhteellisen simppeli. Studiossa mikseriin on kytketty mikrofonit, studiokone, levarit, ja CD-soittimet. Lisäksi ohjelman tekijät voivat itse tuoda omia audiolähteitään olettaen, ettei niistä soiteta tekijänoikeuksia rikkovaa materiaalia. Studiosta ääni lähtee viereisessä tekniikkakontissa olevalle palvelimelle, josta se lähtee eteen päin tallentimelle, lähettimelle, ja välittimelle. Ohjelma tallennetaan tunnin mittaisissa pätkissä kiintolevylle lakiteknisistä syistä ja sitä tulee lain mukaan säilöä arkistossa tasan vuosi. PRKn avulla rakennettava FM-lähetin kuuntelee samaa streamia, ja sylkee sen taivaalle 50 watin teholla. Nettistreamin hoitaa Polygamelta lainassa oleva serveri, jonka kapasiteetti riittää mitä mainioimmin usealle sadalle kuuntelijalle.
+
+
+Wappuradio on joka vuotinen, huikea projekti, jota pääsee tekemään kuka tahansa täytettyään kaksi kriteeriä:
+
+1. Ole kiinnostunut 
+2. Älä ole vittupää. 
+
+Lisätietoja kannattaa kysellä allekirjoittaneelta, tekijöitä tarvitaan! Kannattaa myös lukaista Aalto-yliopiston Sähköinsinöörikillan (jota ei sovi sekoittaa Oululaiseen vastineeseensa harhaanjohtavasta domainista huolimatta!) kiltalehdessä julkaistu samaa aihetta käsittelevä artikkeli [täältä](http://sik.ayy.fi/fi/sosso/2016/2).
+
+
+
