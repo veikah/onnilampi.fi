@@ -2,7 +2,7 @@
 layout: post
 title:  "How to argument correctly"
 headline: "Hyvän mouhon ABC"
-date:   2016-09-25 00:00:00 +0300
+date:   2016-10-25 00:00:00 +0300
 permalink: /blog/mouhon-abc/
 language: fin
 author: "Konsta Hölttä ja Onni Lampi"
