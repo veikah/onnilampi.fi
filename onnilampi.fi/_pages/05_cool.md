@@ -6,6 +6,11 @@ permalink: /links/
 
 I find this to be a much better alternative to sharing things on Facebook or other social media. These links are not in any particular order, other than the time of addition (newest on top) and being filed under the month of addition. If something über-cool is missing, then it is. 
 
+### October 2016
+
+* [The Great Barrier Reef is dead :(](http://www.spokesman.com/blogs/outdoors/2016/oct/13/great-barrier-reef-pronounced-dead-scientists/)
+* A guy [rants](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.p76zxm5a8) about startup culture.
+
 ### September 2016
 
 * [A graph](http://xkcd.com/1732/) that provides an awesome perspective to global warming.
