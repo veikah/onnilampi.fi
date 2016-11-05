@@ -8,6 +8,9 @@ I find this to be a much better alternative to sharing things on Facebook or oth
 
 ### October 2016
 
+* [Think](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim?page=1&tab=votes#tab-top) of vim as a language.
+* How H.264 [works](https://sidbala.com/h-264-is-magic/).
+* NASA [explains](http://www.jpl.nasa.gov/edu/news/2016/3/16/how-many-decimals-of-pi-do-we-really-need/) why using over 40 decimals of Pi are essentially useless.
 * [The Great Barrier Reef is dead :(](http://www.spokesman.com/blogs/outdoors/2016/oct/13/great-barrier-reef-pronounced-dead-scientists/)
 * A guy [rants](https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.p76zxm5a8) about startup culture.
 
