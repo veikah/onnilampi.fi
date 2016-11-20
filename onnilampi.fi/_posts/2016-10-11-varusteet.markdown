@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Essential equipment for student trips"
+title:  "Mitä mukaan teekkariretkille?"
 headline: "Mitä mukaan teekkariretkille?"
 date:   2016-10-11 00:00:00 +0300
 permalink: /blog/varusteet/

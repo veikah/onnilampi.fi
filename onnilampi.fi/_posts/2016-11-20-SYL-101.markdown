@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "SYL on feministinen järjestö"
+headline: "SYL on feministinen järjestö"
+date:   2016-11-20 00:00:00 +0300
+permalink: /blog/syl-feminismi/
+language: fin
+author: "Onni Lampi, AYYn delegaatti SYLlin liittokokouksessa 2016"
+categories: jekyll update
+---
+
+*...vai onko? Mikä oikein on SYL? Mitä se tekee? Mistä tässä on kyse?*
+
+SYLlin liittokokous järjestettiin 18.-19.11. Hotelli Korpilammella, Espoossa.
+Kokouksessa mm. valittiin liitolle uusi hallitus, sekä hyväksyttiin SYLlin uusi linjapaperi.
+Linjapaperiin tuli lause: "SYL on täten feministinen järjestö". 
+
+Vihreää aatetta ja puoluetta edustavat delegaatit ja henkilöt olivat luonnollisesti tästä yhdestä lauseesta kovin innoissaan, hehkuttaen sitä twitterissä ja muualla sosiaalisessa mediassa.
+Suurin osa mielensä pahoittaneista ihmisistä ei kuitenkaan tunnu tietävän, mihin edellä mainittu lause liittyy.
+Suurta epäselvyyttä tuntuu olevan myös siinä, mitä SYL tekee tai mikä se edes on! 
+
+### SYL organisaationa
+
+SYL, eli Suomen ylioppilaskuntien liitto on yliopisto-opiskelijoiden edunvalvontaa hoitava organisaatio.
+Siihen kuuluvat kaikki suomen ylioppilaskunnat ja heidän kauttaan noin 132000 opiskelijajäsentä.
+SYL on se taho, joka linjaa koko ylioppilasliikettä koskevissa asioissa valtionjohdolle ja medialle, mitä mieltä asioista ollaan.
+
+SYL myös hoitaa opiskelijoiden puolesta lobbausta ja vaikuttamista eduskuntaa myöten, ja siinä onnistuessaan ei välttämättä pidä itsestään meteliä.
+Voidaankin siis todeta, että SYL on ikään kuin ääniteknikko; se huomataan vasta silloin kun homma kusee.
+
+### Liittokokous
+
+Joka vuosi liitolle tulee valita valita ja hyväksyä toimijat ja dokumentit samalla tapaa kuin missä tahansa yhdistyksessä.
+Jokainen ylioppilaskunta lähettää delegaationsa kokoukseen, jotka sitten työstävät erinäisiä dokumentteja työryhmissä, sekä valitsevat hallituksen.
+Liittokokouksessa esitetään myös poliittisia puheenvuoroja, tervehdyksiä ja ponsia.
+Kokouksessa politiikka on siis vahvasti esillä, mutta tämä kuuluu asiaan järjestön ollessa poliittista vaikuttamista harrastava liitto.
+
+### Linjapaperi
+
+Tässä kyseisessä kokouksessa hyväksyttiin myös uusi linjapaperi, joka ohjaa SYLlin pitkäaikaista toimintaa ja edunvalvontaa.
+Linjapaperissa määritellään, mitä mieltä liitto on yleisistä asioista ja millaista politiikkaa se ajaa.
+
+Paperissa määritellään myös hyvin konkreettisesti liiton arvot ja vaikuttamistavoitteet, paikoin hyvinkin yksityiskohtaisesti.
+Kannattaa katsoa [tämän](https://www.youtube.com/watch?v=DRz_NLG16AQ) videon ensimmäinen puolisko, jossa Heikki Koponen (liiton puheenjohtaja vuodelta 2016) kertoo linjapaperista tarkemmin.
+
+### SYL ja feminismi
+
+Edellisessä osiossa kuvatussa linjapaperissa määriteltiin SYLlin arvot.
+Lausuntokierroksen jälkeisessä hallituksen pohjaesityksessä ne olivat tätä muotoa:
+```
+SYL on:
+    -intohimoinen sivistyksen puolestapuhuja.
+        Sivistys on avarakatseisuutta sekä taitoa kuunnella, luoda, oppia ja 
+        ymmärtää. Koulutus ja opiskelijoiden toiminta ovat olennainen osa jatkuvasti
+        elävää sivistyksen ihannetta.
+    -rohkea edelläkävijä.
+        Edelläkävijyys on vanhan haastamista ja uuden luomista. Opiskelijat rakentavat 
+        ennakkoluulottomasti parempaa huomista.
+    -laaja-alaisen kansainvälisyyden edistäjä.
+        Akateemisessa yhteisössä ihmiset kohtaavat yli rajojen. Aito kansainvälisyys
+        edellyttää yhteiskunnalta monimuotoisuutta ja syrjimätöntä kulttuurien kohtaamista.
+    -yhdenvertaisuuden puolustaja.
+        Yhdenvertaisuus on vahvan ja hyvinvoivan yhteiskunnan perusta. Kaikilla tulee olla
+        yhtäläiset oikeudet ja mahdollisuudet toteuttaa itseään kykyjensä mukaan ja taustoistaan riippumatta.
+```
+Arvoja käsitellyt työryhmä hyväksyi linjapaperiin muutaman muutosesityksen, joista hallitus otti pohjaansa osan.
+Yksi näistä oli viimeisen kappaleen perään lisäys *SYL on täten feministinen järjestö*.
+Hallitus ei kuitenkaan ottanut sitä pohjaansa, mutta kokouksessa se [äänestettiin](https://youtu.be/D_7Dj6RbsNA?t=1h59m48s) osaksi linjapaperia.
+
+SYLlin linjapaperissa määritellyt arvot ovat siis seuraavat:
+```
+SYL on:
+    -intohimoinen sivistyksen puolestapuhuja.
+        Sivistys on avarakatseisuutta sekä taitoa kuunnella, luoda, oppia ja
+        ymmärtää. Koulutus ja opiskelijoiden toiminta ovat olennainen osa jatkuvasti
+        elävää sivistyksen ihannetta.
+    -rohkea edelläkävijä.
+        Edelläkävijyys on vanhan haastamista ja uuden luomista. Opiskelijat rakentavat
+        ennakkoluulottomasti parempaa huomista.
+    -laaja-alaisen kansainvälisyyden edistäjä.
+        Akateemisessa yhteisössä ihmiset kohtaavat yli rajojen. Aito kansainvälisyys
+        edellyttää yhteiskunnalta monimuotoisuutta ja syrjimätöntä kulttuurien kohtaamista.
+    -yhdenvertaisuuden puolustaja.
+        Yhdenvertaisuus on vahvan ja hyvinvoivan yhteiskunnan perusta. Kaikilla tulee
+        olla yhtäläiset oikeudet ja mahdollisuudet toteuttaa itseään ja vaikuttaa
+        yhteisiin asioihin kykyjensä mukaan ja taustoistaan riippumatta. SYL on täten feministinen järjestö.
+```
+
+Tässä feminismikohussa on siis kyse pelkästään asian korostamisesta ja tarkentamisesta.
+Koko kappale käytännössä ajaa sitä, mistä feminismissä pohjimmiltaan on kyse.
+Linjapaperi ei siis aja mitään aktiivista feminismin lisäystä tai vastaavaa, vaan ainoastaan mainitsee feminismin käsitteenä kohdassa, jossa puhutaan tasa-arvosta.
+
+### Oma mielipiteeni
+
+Tällainen maininta on mielestäni ehkä tarpeeton, mutta ei siitä kirjaimellisesti ole kenellekään haittaa tai häiriötä.
+Feminismi on terminä nykyään aika "triggeröivä" ja aggressiivinen, mutta sen todellinen pointti on tasa-arvon edistäminen.
+Sellaisena se sopii yllä esitettyyn kontekstiin.
+
+Tuon yhden lauseen ansiosta SYL on saanut paljon julkisuutta, vaikkakin valtaosa on asiaan perehtymättömien trollien ja barbaarien mölinää.
+Heidät voi jättää omaan arvoonsa ja keskittyä itse arvostamaan SYLliä sinä tärkeänä edunvalvontaorganisaationa, jollainen se on.

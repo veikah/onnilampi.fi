@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My rant about Beer Pong"
+title:  "Beer Pong on typerä peli"
 headline: "Beer Pong on typerä peli"
 date:   2016-08-02 16:47:25 +0300
 permalink: /blog/pinkiponkipeli/
